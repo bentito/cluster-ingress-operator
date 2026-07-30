@@ -1,0 +1,19 @@
+test-fips.go
+  s_31db74592f8c37::t_f90f262a49ccf5 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "f3d831bddeb7e58a1ca829e5a791937d2aabaeac",
+  "prompts": {},
+  "sessions": {
+    "s_31db74592f8c37": {
+      "agent_id": {
+        "tool": "mock_ai",
+        "id": "ai-thread-1785423302943594000",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
