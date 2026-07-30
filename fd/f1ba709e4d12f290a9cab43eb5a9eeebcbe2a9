@@ -1,0 +1,22 @@
+manifests/00-ingress-credentials-request.yaml
+  s_77dba31269de2d::t_1ee235febaf0ab 31-34
+pkg/manifests/manifests_test.go
+  s_77dba31269de2d::t_6247ceb803a91c 87-138
+  s_77dba31269de2d::t_8117e8d550f17a 4-5,13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "fdf1ba709e4d12f290a9cab43eb5a9eeebcbe2a9",
+  "prompts": {},
+  "sessions": {
+    "s_77dba31269de2d": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "0bf2d686-1ac3-4cde-a288-75656cb45add",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
