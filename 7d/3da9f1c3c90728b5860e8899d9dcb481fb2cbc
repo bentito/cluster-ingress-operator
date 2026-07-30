@@ -1,0 +1,19 @@
+test-fips.go
+  s_ebbf614d7554ee::t_057c4a8e2b8580 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "7d3da9f1c3c90728b5860e8899d9dcb481fb2cbc",
+  "prompts": {},
+  "sessions": {
+    "s_ebbf614d7554ee": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "s_00d592d5588513",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
