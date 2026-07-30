@@ -1,0 +1,19 @@
+manifests/00-ingress-credentials-request.yaml
+  s_bfc7aa62ce41e2::t_504a80ae1814df 30-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "443d93535ad0080f9b561ed858876fb78711a27b",
+  "prompts": {},
+  "sessions": {
+    "s_bfc7aa62ce41e2": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "c0337293-50f4-4adb-a2ca-fe727e030494",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
