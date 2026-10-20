@@ -1,0 +1,29 @@
+pkg/operator/controller/status/controller.go
+  s_b2e534bab97471::t_0a238e3b309a1d 149-160,274-276,338,460-463,468,470,536-538,603-609,1140-1143
+pkg/operator/controller/status/startup.go
+  s_b2e534bab97471::t_e162bad21cddd4 1-71
+pkg/operator/controller/status/startup_test.go
+  s_b2e534bab97471::t_93affdae6c272a 1-163
+pkg/operator/operator.go
+  s_b2e534bab97471::t_43a0a908f350f1 262
+test/e2e/all_test.go
+  s_b2e534bab97471::t_9c9dd31df18b3b 55
+test/e2e/hosted_router_readiness_test.go
+  s_b2e534bab97471::t_745428269e15d9 1-108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "2a1d5d2fdd7dbe9609e861af56ab8003d2b8effb",
+  "prompts": {},
+  "sessions": {
+    "s_b2e534bab97471": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15448-8741-7ca3-848c-b0b03234808f",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
