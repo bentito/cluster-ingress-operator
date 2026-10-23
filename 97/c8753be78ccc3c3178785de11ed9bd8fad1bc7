@@ -1,0 +1,21 @@
+pkg/operator/controller/ingress/node_readiness_test.go
+  s_b2e534bab97471::t_e099469e6169e7 72-79,84-100,107-112,130-134,143-149
+pkg/operator/controller/ingress/status.go
+  s_b2e534bab97471::t_d68fccea3b45db 137-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "97c8753be78ccc3c3178785de11ed9bd8fad1bc7",
+  "prompts": {},
+  "sessions": {
+    "s_b2e534bab97471": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15448-8741-7ca3-848c-b0b03234808f",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
