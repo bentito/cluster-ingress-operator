@@ -1,0 +1,19 @@
+pkg/operator/controller/status/startup.go
+  s_b2e534bab97471::t_04ed349f998fcd 4-5,24-89,91-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "d084d8c4ee05b12cc26e0f59bf7c6d9a8cf194d8",
+  "prompts": {},
+  "sessions": {
+    "s_b2e534bab97471": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15448-8741-7ca3-848c-b0b03234808f",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
